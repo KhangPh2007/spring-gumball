@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: spring-gumball
-        image: gcr.io/neural-guard-362222/spring-gumball
+        image: khangphan/spring-gumball:v2
         ports:
         - containerPort: 8080
 
